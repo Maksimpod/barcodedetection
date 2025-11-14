@@ -9,4 +9,4 @@
 
 # Пример работы
 <img width="1150" height="756" alt="test_result" src="https://github.com/Maksimpod/barcodedetection/blob/main/example/test_result.png" />
-<img width="1150" height="756" alt="test_result" src="https://github.com/Maksimpod/barcodedetection/blob/main/example/interface.png" />
+<img width="662" height="548" alt="test_result" src="https://github.com/Maksimpod/barcodedetection/blob/main/example/interface.png" />
